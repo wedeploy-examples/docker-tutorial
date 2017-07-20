@@ -1,0 +1,6 @@
+{
+	"id": "db",
+	"env": {
+		"MYSQL_ROOT_PASSWORD": "passw0rd"
+	}
+}
