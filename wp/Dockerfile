@@ -1,1 +1,1 @@
-FROM wordpress
+FROM wordpress:php5.6
